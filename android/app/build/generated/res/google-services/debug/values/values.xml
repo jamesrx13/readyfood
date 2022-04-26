@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">410492085763-bdicgav83tsl760bki26f1f3qj7fl6du.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://ready-food-7ca77-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">410492085763</string>
+    <string name="google_api_key" translatable="false">AIzaSyC9PCoD4Ldjec-8xSgf0qFV_ejUm_rwNI8</string>
+    <string name="google_app_id" translatable="false">1:410492085763:android:3f51eb2e879b8a28db5036</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC9PCoD4Ldjec-8xSgf0qFV_ejUm_rwNI8</string>
+    <string name="google_storage_bucket" translatable="false">ready-food-7ca77.appspot.com</string>
+    <string name="project_id" translatable="false">ready-food-7ca77</string>
+</resources>
